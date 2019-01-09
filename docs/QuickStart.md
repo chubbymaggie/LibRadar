@@ -16,7 +16,6 @@
 
   [Mirror 1 Github](https://github.com/pkumza/Data_for_LibRadar/blob/master/lite_dataset_10.csv)
 
-  [Mirror 2 Aliyun CN](http://lxwiki.oss-cn-beijing.aliyuncs.com/lite_dataset_10.csv)
 
 3. Use LibRadar to detect libraries.
 
@@ -67,7 +66,9 @@
    find data file.
 
 4. Download LibRadarData.rdb and run redis-server
-  [Dropbox Link](https://www.dropbox.com/s/w31gig6msdo3cdy/dump-20170515-shrink.rdb.tar.gz?dl=0)
+
+  - [~Dropbox Link old~](https://www.dropbox.com/s/w31gig6msdo3cdy/dump-20170515-shrink.rdb.tar.gz?dl=0)
+  - [Dropbox Link](https://www.dropbox.com/s/ljtzw74twt8xgy6/d.tar.gz?dl=0)
 
   ```bash
   $ vi LibRadar/tool/redis.conf.
